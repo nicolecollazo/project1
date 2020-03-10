@@ -1,0 +1,123 @@
+body {
+  font-family: 'Playfair Display';
+  background-color: #fcf8e8;
+  color: #332102;
+}
+
+.container {
+	text-align: left;
+  margin-left: 50pt;
+}
+
+p {
+  padding-top: 20pt;
+  font-size: 13pt;
+  line-height: 2.0;
+}
+
+h1 {
+  text-align: center;
+  font-size: 32pt;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30pt;
+}
+
+h3 {
+  font-size: 25pt;
+}
+
+h4 {
+  font-size: 16pt;
+  padding-left: 50pt;
+  padding-right: 50pt;
+}
+
+h5 {
+  text-align: center;
+  padding: 10 10 10 10
+}
+
+h6{
+  padding: 50 50 50 50;
+  font-size: 18pt;
+}
+
+.header img{
+  border-radius: 50%;
+  padding-top: 10pt;
+  padding-bottom: 10pt;
+}
+
+.credit img {
+  border-radius: 60%;
+  padding-top: 10pt;
+  padding-bottom: 10pt;
+  text-align: center;
+  margin: auto;
+   width: 50%;
+}
+
+.sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.icon {
+  margin: 10 10 10 10;
+}
+
+.icon img {
+  border-radius: 48%
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+.previous {
+  background-color: #D4B16A;
+  color: #332102;
+}
+
+.next {
+  background-color: #D4B16A;
+  color: #332102;
+}
+
+.round {
+  border-radius: 50%;
+}
+
+a{
+  color: brown;
+}
+/* mouse over link */
+a:hover {
+  color: #332102;
+}
+
+hr{
+  height: 1px;
+  color: #D4B16A;
+  background-color: #D4B16A;
+}
